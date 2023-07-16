@@ -1,2 +1,2 @@
-# Rock-paper-scissors
-RPS game via RPC
+# RPC-experements
+### Here I'm writing some things with rpclib
